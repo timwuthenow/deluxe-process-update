@@ -35,7 +35,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.deluxedemo.deluxemodel</groupId>
+      <groupId>com.deluxedemo</groupId>
       <artifactId>DeluxeModels</artifactId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
